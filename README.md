@@ -1,0 +1,1 @@
+# cloudysfriends-cli
